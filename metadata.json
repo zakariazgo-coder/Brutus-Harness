@@ -1,0 +1,6 @@
+{
+  "name": "BRUTUS Control Room",
+  "description": "Console d'orchestration pour agents de codage IA multi-modèles auto-hébergée avec canvas interactif, flux d'activité en direct et télémétrie complète.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
